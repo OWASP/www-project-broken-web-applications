@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Chuck Willis](mailto://)
+* [Chuck Willis](mailto:)
