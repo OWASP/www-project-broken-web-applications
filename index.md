@@ -10,6 +10,50 @@ auto-migrated: 1
 
 ---
 
+# Main
+
+OWASP Broken Web Applications Project is a collection of vulnerable web applications that is distributed on a Virtual Machine.
+
+# Description
+
+The Broken Web Applications (BWA) Project produces a Virtual Machine running a variety of applications with known vulnerabilities for those interested in:
+- learning about web application security
+- testing manual assessment techniques
+- testing automated tools
+- testing source code analysis tools
+- observing web attacks
+- testing WAFs and similar code technologies
+
+All the while saving people interested in doing either learning or testing the pain of having to compile, configure, and catalog all of the things normally involved in doing this process from scratch.
+
+# Licensing
+
+OWASP Broken Web Applications Project is free to use. Any custom code / modifications are GPLv2, but this does not override the license of each individual software package we incorporate. All software is open source.
+
+# News and Events
+
+
+    3-Aug-2015 -- OWASP Broken Web Applications version 1.2 was released.
+    27-Sep-2013 -- OWASP Broken Web Applications version 1.1.1 was released.
+    30-Jul-2013 -- OWASP Broken Web Applications version 1.1 was released.
+    25-Jul-2012 -- Chuck Willis demonstrates OWASP BWA at the Black Hat USA Arsenal.
+    24-Jul-2012 -- OWASP Broken Web Applications version 1.0 was released.
+    14-Jul-2012 -- OWASP Broken Web Applications version 1.0rc2 was released.
+    4-Apr-2012 -- OWASP Broken Web Applications version 1.0rc1 was released at OWASP AppSec DC.
+    4-Aug-2011 -- Chuck Willis demonstrates OWASP BWA at the Black Hat USA Arsenal.
+    24-Jul-2011 -- OWASP Broken Web Applications version 0.94 was released.
+    27-Jan-2011 -- Chuck Willis presents OWASP BWA at the DoD Cyber Crime Conference.
+    19-Jan-2011 -- OWASP Broken Web Applications version 0.93rc1 was released.
+    15-Nov-2010 -- OWASP Broken Web Applications version 0.92rc2 was released.
+    10-Nov-2010 -- OWASP Broken Web Applications version 0.92rc1 was released.
+    10-Nov-2010 -- Chuck Willis presents OWASP BWA at OWASP AppSec DC.
+    24-Mar-2010 -- OWASP Broken Web Applications version 0.91rc1 was released.
+    5-Feb-2010 -- Doug Wilson presents on OWASP BWA at ShmooCon in Washington DC at 6 PM
+    31-Jan-2010 -- We are now an "official" OWASP project, just in time for ShmooCon!
+    27-Jan-2010 -- Chuck Willis presents BWA at the DoD Cybercrime conference
+
+
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
